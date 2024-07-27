@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATM_Application_WPF", "ATM_Application_WPF\ATM_Application_WPF.csproj", "{C64A6FAC-38B9-4B57-914A-B294CBBE8355}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D9A72261-EAA9-4532-A256-56FDB95F6C0B}"
+	ProjectSection(SolutionItems) = preProject
+		AtmApplication.cs = AtmApplication.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C64A6FAC-38B9-4B57-914A-B294CBBE8355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64A6FAC-38B9-4B57-914A-B294CBBE8355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64A6FAC-38B9-4B57-914A-B294CBBE8355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64A6FAC-38B9-4B57-914A-B294CBBE8355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C55B955-EA30-4AE0-88D7-098BB0367D81}
+	EndGlobalSection
+EndGlobal
